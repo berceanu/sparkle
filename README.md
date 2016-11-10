@@ -1,0 +1,2 @@
+# sparkle
+Sparkle hosted folder
