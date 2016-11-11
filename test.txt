@@ -1,1 +1,0 @@
-git-annex is a distributed file synchronization system written in Haskell. It aims to solve the problem of sharing and synchronizing collections of large files independent from a commercial service or even a central server.
