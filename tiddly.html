@@ -8064,13 +8064,14 @@ Inbox</pre>
 * use [[Understand|https://en.wikipedia.org/wiki/Understand_(software)]] and port Franci's code to Python
 * [[MEpedia growth analysis|http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime]]</pre>
 </div>
-<div created="20161116225614226" modified="20161116230142735" tags="markdown latex" title="LaTeX to Jekyll">
+<div created="20161116225614226" modified="20161116230150204" tags="markdown latex" title="LaTeX to Jekyll">
 <pre>First, convert the ~LaTeX source file //cv.tex// to //cv.html// using
 
 ```
 htlatex cv.tex &quot;xhtml, mathml, charset=utf-8&quot; &quot; -cunihtf -utf8&quot;
 ```
 and then convert //cv.html// to the markdown file //cv.md//:
+
 ```
 kramdown -i html -o remove_html_tags,kramdown cv.html &gt; cv.md
 ```</pre>
