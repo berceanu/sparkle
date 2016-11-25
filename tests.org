@@ -1,0 +1,53 @@
+# * Tests
+# ** sleep study
+# ** qEEG
+# ** TTT
+# ** CPET
+#    VO2max and maximal ventilation
+# ** 2 day CPET
+# *** Staci Stevens
+#     Doing the 2-day test also gives you useful data that you can use to
+#     help you pace by wearing a hear rate monitor to warn you with an
+#     audible alarm when you go over your test-measured heart rate at the
+#     anaerobic threshold.
+#     Some ME patients' HR at AT can drop as much as 50% on Day 2. So, it's
+#     the Day 2 HR measure that you want to go by every day.
+# ** blood volume
+# ** whole body potassium scan
+
+
+* Meirleir
+
+| Name                                         |Price(€)|
+|----------------------------------------------+--------|
+| Urine                                        |     10 |
+| Tularemia Serology                           |     46 |
+| DNA extraction blood                         |     50 |
+| HHV6 Human Herpesvirus 6                     |     53 |
+| CD57+/CD3- Absolute count                    |     62 |
+| FOB-Trans. + Lactof.-Calprot.                |     63 |
+| Soluble CD14                                 |     70 |
+| Prostaglandin E2                             |     70 |
+| Vascular endothelial growth factor           |     70 |
+| D-lactate                                    |     70 |
+| L-Lactate                                    |     70 |
+| Soluble Immunoglobuline A                    |     70 |
+| IgA/IgM intetinal bacteria                   |     75 |
+| Fructose                                     |     90 |
+| Lactose                                      |     90 |
+| Mycoplasma spp + Pn / PCR                    |     99 |
+| Bartonella spp / PCR                         |     99 |
+| Midichloria mitochondrii / PCR               |     99 |
+| Molds igG panel                              |    132 |
+| Babesia genus FISH                           |    140 |
+| Chlamydias serologie- IgG & IgA/M            |    159 |
+| Yersinia Serology - IgG & IgA/M (immunoblot) |    159 |
+| Food panel                                   |    160 |
+| Proinflammatory cytokines panel              |    164 |
+| Zoonosis                                     |    180 |
+| Borrelia                                     |  234.5 |
+| Metagenomics stool Analisys                  |    280 |
+|----------------------------------------------+--------|
+| Consultation                                 |     80 |
+|----------------------------------------------+--------|
+| Total                                        | 2944.5 |
