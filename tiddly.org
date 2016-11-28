@@ -1,5 +1,10 @@
-* arXiv
+* Inbox
+** [[http://lahwaacz.github.io/wiki-scripts][MediaWiki scripts]]
+** port Franci's code to Python
+** [[http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime][MEpedia growth analysis]]
 
+
+* arXiv
 ** Resources
 *** [[https://github.com/mjmaenner/coAuthor/blob/master/postdoc_coauthor_graph.R][Pubmed co-author graph in R]]
 *** [[https://github.com/lukasschwab/arxiv.py][Python wrapper for the arXiv API]]
@@ -9,10 +14,12 @@
 *** Port R code to Python
 *** Replace /PubMed/ by /arXiv/
 
+
 * Blog
 ** Resources
 *** [[http:/tildehash.com/?page=hashover][HashOver]] comment system
 *** [[https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/][Jekyll on GitHub]]
+
 
 * Data Science
 ** Advice
@@ -74,11 +81,6 @@
 *** [[file:/home/berceanu/Documents/twitter.pdf][Twitter communities]]
 
 
-* Inbox
-** [[http://lahwaacz.github.io/wiki-scripts][MediaWiki scripts]]
-** port Franci's code to Python
-** [[http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime][MEpedia growth analysis]]
-
 * LaTeX to Jekyll
 First, convert the LaTeX source file ~cv.tex~ to ~cv.html~ using
 #+BEGIN_EXAMPLE
@@ -89,6 +91,7 @@ and then convert ~cv.html~ to the markdown file ~cv.md~:
 kramdown -i html -o remove_html_tags
 kramdown cv.html > cv.md
 #+END_EXAMPLE
+
 
 * ME
 ** [[http://me-pedia.org/wiki/User:Ollie][Ollie]] on MEpedia
@@ -135,7 +138,6 @@ kramdown cv.html > cv.md
 *** [[https://community.modeanalytics.com/sql/tutorial/introduction-to-sql][SQL Tutorial]]
 
 
-
 * Python
 ** Practice problems
 *** [[http://www.pythonchallenge.com/][Python Challenge]]
@@ -167,7 +169,6 @@ kramdown cv.html > cv.md
 
 * R for Data science
 ** ggplot2
-
 #+BEGIN_EXAMPLE
 ggplot(data = <DATA>) + 
   <GEOM_FUNCTION>(
@@ -178,7 +179,6 @@ ggplot(data = <DATA>) +
   <COORDINATE_FUNCTION> +
   <FACET_FUNCTION>
 #+END_EXAMPLE
-
 ** data manipulation
 *** ~filter()~
 *** ~arrange()~
