@@ -144,6 +144,7 @@ kramdown cv.html > cv.md
 *** [[http://www.practicepython.org/][Practice Python]]
 *** [[http://codingbat.com/python][Coding Bat]]
 ** Base
+*** ~python3 -m pip install --user git+git://github.com/vtphan/rcviz.git~
 *** [[http://wingware.com/pipermail/wingide-users/2013-September/010392.html][Profiling code]]
 *** [[https://leemendelowitz.github.io/blog/how-does-python-find-packages.html][How does Python find packages?]]
 *** [[http://programmingbits.pythonblogs.com/27_programmingbits/archive/50_function_decorators.html][function decorators]]
