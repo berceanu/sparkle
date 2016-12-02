@@ -1,5 +1,8 @@
 * Inbox
 ** [[http://www.irchelp.org][Internet Relay Chat Help]]
+
+
+* MediaWiki analysis
 ** [[http://lahwaacz.github.io/wiki-scripts][MediaWiki scripts]]
 ** [[http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime][Wiki Growth Over Time]]
 
@@ -18,6 +21,7 @@ and then convert ~cv.html~ to the markdown file ~cv.md~:
 kramdown -i html -o remove_html_tags
 kramdown cv.html > cv.md
 #+END_EXAMPLE
+
 
 * Data Science
 ** Advice
@@ -72,15 +76,6 @@ kramdown cv.html > cv.md
 *** [[https://blog.data.gov.sg][Singapore Government's open data portal blog]]
 
 
-* Gephi
-** Resources
-*** [[http://www.martingrandjean.ch/gephi-introduction][Introduction to network analysis and visualization]]
-*** [[https://en.wikipedia.org/wiki/Centrality][Centrality measures]]
-*** [[https://en.wikipedia.org/wiki/Community_structure][Community structure]]
-*** [[https://en.wikipedia.org/wiki/Force-directed_graph_drawing][Force directed graph]]
-*** [[file:/home/berceanu/Documents/twitter.pdf][Twitter communities]]
-
-
 * Programming
 ** General
 *** [[http://albertwu.org/cs61a/notes/vim][Vim]] and [[http://albertwu.org/cs61a/notes/vimrc][vimrc]]
@@ -117,6 +112,12 @@ kramdown cv.html > cv.md
 *** [[https://www.amazon.com/gp/product/0672336073][SQL in 10 Minutes]]
 *** [[https://sqlbolt.com][SQLBolt]]
 *** [[https://community.modeanalytics.com/sql/tutorial/introduction-to-sql][SQL Tutorial]]
+** Gephi
+*** [[http://www.martingrandjean.ch/gephi-introduction][Introduction to network analysis and visualization]]
+*** [[https://en.wikipedia.org/wiki/Centrality][Centrality measures]]
+*** [[https://en.wikipedia.org/wiki/Community_structure][Community structure]]
+*** [[https://en.wikipedia.org/wiki/Force-directed_graph_drawing][Force directed graph]]
+*** [[file:/home/berceanu/Documents/twitter.pdf][Twitter communities]]
 
 
 * Python
@@ -161,6 +162,7 @@ kramdown cv.html > cv.md
 *** [[https://github.com/raullaasner/fortran-tags][source code indexing]]
 *** [[https://github.com/jannisteunissen/align-f90][alignment support]]
 
+
 * arXiv
 ** Resource
 *** [[https://github.com/mjmaenner/coAuthor/blob/master/postdoc_coauthor_graph.R][Pubmed co-author graph in R]]
@@ -171,6 +173,7 @@ kramdown cv.html > cv.md
 ** Steps
 *** Port R code to Python
 *** Replace /PubMed/ by /arXiv/
+
 
 * Netherlands
 ** [[http://asml.com][ASML]]
