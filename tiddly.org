@@ -1,7 +1,7 @@
 * Inbox
 ** [[http://www.irchelp.org][Internet Relay Chat Help]]
 ** [[http://lahwaacz.github.io/wiki-scripts][MediaWiki scripts]]
-** [[http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime][Wiki Growth Over Time]]   
+** [[http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime][Wiki Growth Over Time]]
 
 
 * Blog
