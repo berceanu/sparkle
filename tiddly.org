@@ -180,6 +180,7 @@ ggplot(data = <DATA>) +
 *** [[https://github.com/lukasschwab/arxiv.py][Python wrapper for the arXiv API]]
 *** [[https://pypi.python.org/pypi/scholarNetwork][Coauthor-Network of Google Scholar]]
 *** [[https://github.com/ropensciaRxiv][R interface to the Arxiv API]]
+*** [[https://known.phyks.me][Phyk's blog]]
 ** Steps
 *** Port R code to Python
 *** Replace /PubMed/ by /arXiv/
