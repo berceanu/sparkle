@@ -151,18 +151,6 @@ kramdown cv.html > cv.md
 *** [[file:/home/berceanu/Documents/Books/Python/pandas.pdf][Python for Data Analysis]]
 
 
-
-* Spacemacs Fortran Layer
-** Available emacs packages:
-*** [[https://github.com/rosenbrockc/fortpy-el][Auto-Completion]]
-*** [[https://github.com/rosenbrockc/fortpy][Intellisense and Unit Testing]]
-*** [[https://github.com/ffevotte/fortran-index-args][Index fortran arguments]]
-*** [[https://github.com/ZedThree/f90-namelist-mode][handle namelists]]
-*** [[https://github.com/wence-/f90-iface][browser for generic interfaces]]
-*** [[https://github.com/raullaasner/fortran-tags][source code indexing]]
-*** [[https://github.com/jannisteunissen/align-f90][alignment support]]
-
-
 * arXiv
 ** Resource
 *** [[https://github.com/mjmaenner/coAuthor/blob/master/postdoc_coauthor_graph.R][Pubmed co-author graph in R]]
@@ -173,6 +161,17 @@ kramdown cv.html > cv.md
 ** Steps
 *** Port R code to Python
 *** Replace /PubMed/ by /arXiv/
+
+
+* Spacemacs Fortran Layer
+** Available emacs packages:
+*** [[https://github.com/rosenbrockc/fortpy-el][Auto-Completion]]
+*** [[https://github.com/rosenbrockc/fortpy][Intellisense and Unit Testing]]
+*** [[https://github.com/ffevotte/fortran-index-args][Index fortran arguments]]
+*** [[https://github.com/ZedThree/f90-namelist-mode][handle namelists]]
+*** [[https://github.com/wence-/f90-iface][browser for generic interfaces]]
+*** [[https://github.com/raullaasner/fortran-tags][source code indexing]]
+*** [[https://github.com/jannisteunissen/align-f90][alignment support]]
 
 
 * Netherlands
