@@ -1,7 +1,6 @@
 * Inbox
+** [[http://www.irchelp.org][Internet Relay Chat Help]]
 ** [[http://lahwaacz.github.io/wiki-scripts][MediaWiki scripts]]
-** port Franci's code to Python
-** [[http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime][MEpedia growth analysis]]
 
 
 * Blog
