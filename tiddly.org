@@ -178,4 +178,8 @@ kramdown cv.html > cv.md
 ** [[https://www.tno.nl/en][TNO]]
 ** [[http://www.panalytical.com][PANalytical]]
 ** [[http://www.mapperlithography.com][MAPPER lithography]]
-** high-tech campus: Eindhoven, Delft, Amsterdam, Utrecht
+** high-tech campuses
+*** Eindhoven
+*** Delft
+*** Amsterdam
+*** Utrecht
