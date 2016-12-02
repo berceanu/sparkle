@@ -68,6 +68,9 @@
 *** [[https://www.coursera.org/specializations/jhu-data-science][Coursera Data Science Specialization]]
 *** [[http://www.galvanize.com/courses/data-science][Galvanize Data Science Immersive]]
 ** Open Data
+** Examples
+*** [[https://blog.data.gov.sg][Singapore Government's open data portal blog]]
+
 *** [[http://data.gov.ro][Guvernul Romaniei]]
 *** [[http://stat-computing.org/dataexpo/2009][airline flight info]]
 
