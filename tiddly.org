@@ -8,7 +8,16 @@
 ** Resources
 *** [[http:/tildehash.com/?page=hashover][HashOver]] comment system
 *** [[https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/][Jekyll on GitHub]]
-
+** LaTeX to Jekyll
+First, convert the LaTeX source file ~cv.tex~ to ~cv.html~ using
+#+BEGIN_EXAMPLE
+htlatex cv.tex "xhtml, mathml, charset=utf-8" "-cunihtf -utf8"
+#+END_EXAMPLE
+and then convert ~cv.html~ to the markdown file ~cv.md~:
+#+BEGIN_EXAMPLE
+kramdown -i html -o remove_html_tags
+kramdown cv.html > cv.md
+#+END_EXAMPLE
 
 * Data Science
 ** Advice
@@ -70,19 +79,6 @@
 *** [[https://en.wikipedia.org/wiki/Community_structure][Community structure]]
 *** [[https://en.wikipedia.org/wiki/Force-directed_graph_drawing][Force directed graph]]
 *** [[file:/home/berceanu/Documents/twitter.pdf][Twitter communities]]
-
-
-* LaTeX to Jekyll
-First, convert the LaTeX source file ~cv.tex~ to ~cv.html~ using
-#+BEGIN_EXAMPLE
-htlatex cv.tex "xhtml, mathml, charset=utf-8" "-cunihtf -utf8"
-#+END_EXAMPLE
-and then convert ~cv.html~ to the markdown file ~cv.md~:
-#+BEGIN_EXAMPLE
-kramdown -i html -o remove_html_tags
-kramdown cv.html > cv.md
-#+END_EXAMPLE
-
 
 
 * Programming
