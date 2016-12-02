@@ -4,17 +4,6 @@
 ** [[http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime][MEpedia growth analysis]]
 
 
-* arXiv
-** Resources
-*** [[https://github.com/mjmaenner/coAuthor/blob/master/postdoc_coauthor_graph.R][Pubmed co-author graph in R]]
-*** [[https://github.com/lukasschwab/arxiv.py][Python wrapper for the arXiv API]]
-*** [[https://pypi.python.org/pypi/scholarNetwork][Coauthor-Network of Google Scholar]]
-*** [[https://github.com/ropensciaRxiv][R interface to the Arxiv API]]
-** Steps
-*** Port R code to Python
-*** Replace /PubMed/ by /arXiv/
-
-
 * Blog
 ** Resources
 *** [[http:/tildehash.com/?page=hashover][HashOver]] comment system
@@ -86,7 +75,7 @@
 * LaTeX to Jekyll
 First, convert the LaTeX source file ~cv.tex~ to ~cv.html~ using
 #+BEGIN_EXAMPLE
-htlatex cv.tex "xhtml mathml charset=utf-8" " " "-cunihtf -utf8"
+htlatex cv.tex "xhtml, mathml, charset=utf-8" "-cunihtf -utf8"
 #+END_EXAMPLE
 and then convert ~cv.html~ to the markdown file ~cv.md~:
 #+BEGIN_EXAMPLE
@@ -94,19 +83,6 @@ kramdown -i html -o remove_html_tags
 kramdown cv.html > cv.md
 #+END_EXAMPLE
 
-
-* ME
-** [[http://me-pedia.org/wiki/User:Ollie][Ollie]] on MEpedia
-
-
-* Netherlands
-** [[http://asml.com][ASML]]
-** [[http://www.philips.com/global][Philips]]
-** [[http://www.fei.com][FEI Company]]
-** [[https://www.tno.nl/en][TNO]]
-** [[http://www.panalytical.com][PANalytical]]
-** [[http://www.mapperlithography.com][MAPPER lithography]]
-** high-tech campus: Eindhoven, Delft, Amsterdam, Utrecht
 
 
 * Programming
@@ -193,13 +169,6 @@ ggplot(data = <DATA>) +
 *** ~group_by()~
 
 
-* SICP
-** Important concepts
-*** lexical scoping/closures
-*** currying
-*** decorators
-
-
 * Spacemacs Fortran Layer
 ** Available emacs packages:
 *** [[https://github.com/rosenbrockc/fortpy-el][Auto-Completion]]
@@ -209,3 +178,22 @@ ggplot(data = <DATA>) +
 *** [[https://github.com/wence-/f90-iface][browser for generic interfaces]]
 *** [[https://github.com/raullaasner/fortran-tags][source code indexing]]
 *** [[https://github.com/jannisteunissen/align-f90][alignment support]]
+
+* arXiv
+** Resources
+*** [[https://github.com/mjmaenner/coAuthor/blob/master/postdoc_coauthor_graph.R][Pubmed co-author graph in R]]
+*** [[https://github.com/lukasschwab/arxiv.py][Python wrapper for the arXiv API]]
+*** [[https://pypi.python.org/pypi/scholarNetwork][Coauthor-Network of Google Scholar]]
+*** [[https://github.com/ropensciaRxiv][R interface to the Arxiv API]]
+** Steps
+*** Port R code to Python
+*** Replace /PubMed/ by /arXiv/
+
+* Netherlands
+** [[http://asml.com][ASML]]
+** [[http://www.philips.com/global][Philips]]
+** [[http://www.fei.com][FEI Company]]
+** [[https://www.tno.nl/en][TNO]]
+** [[http://www.panalytical.com][PANalytical]]
+** [[http://www.mapperlithography.com][MAPPER lithography]]
+** high-tech campus: Eindhoven, Delft, Amsterdam, Utrecht
