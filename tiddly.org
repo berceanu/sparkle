@@ -162,7 +162,6 @@ kramdown cv.html > cv.md
 
 * arXiv
 ** Resource
-*** Phyk's blog
 *** [[https://github.com/mjmaenner/coAuthor/blob/master/postdoc_coauthor_graph.R][Pubmed co-author graph in R]]
 *** [[https://github.com/lukasschwab/arxiv.py][Python wrapper for the arXiv API]]
 *** [[https://pypi.python.org/pypi/scholarNetwork][Coauthor-Network of Google Scholar]]
