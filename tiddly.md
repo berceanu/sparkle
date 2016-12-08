@@ -2,9 +2,7 @@
 	- [MediaWiki scripts](http://lahwaacz.github.io/wiki-scripts)
 	- [Wiki Growth Over Time](http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime)
 - Blog
-	- Resources
-		- [HashOver](http:/tildehash.com/?page=hashover) comment system
-		- [Jekyll on GitHub](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
+	- [HashOver](http:/tildehash.com/?page=hashover) comment system
 	- [LaTeX to Jekyll](#latex-to-jekyll)
 - Data Science
 	- Advice
