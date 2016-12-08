@@ -1,6 +1,3 @@
-- MediaWiki analysis
-	- [MediaWiki scripts](http://lahwaacz.github.io/wiki-scripts)
-	- [Wiki Growth Over Time](http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime)
 - Blog
 	- [HashOver](http:/tildehash.com/?page=hashover) comment system
 	- [LaTeX to Jekyll](#latex-to-jekyll)
@@ -132,6 +129,9 @@
 	- Steps
 		- Port R code to Python
 		- Replace _PubMed_ by _arXiv_
+- MediaWiki analysis
+	- [MediaWiki scripts](http://lahwaacz.github.io/wiki-scripts)
+	- [Wiki Growth Over Time](http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime)
 - Netherlands
 	- [ASML](http://asml.com)
 	- [Philips](http://www.philips.com/global)
