@@ -1,5 +1,4 @@
 - Inbox
-	- [Internet Relay Chat Help](http://www.irchelp.org)
 	- [torrents on the web](https://instant.io)
 	- [Library Genesis](http://gen.lib.rus.ec/scimag/index.php)
 - MediaWiki analysis
