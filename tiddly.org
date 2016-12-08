@@ -1,3 +1,5 @@
+#+OPTIONS: toc:nil
+
 * Inbox
 ** [[http://www.irchelp.org][Internet Relay Chat Help]]
 
