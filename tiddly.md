@@ -126,9 +126,6 @@
 		- [Coauthor-Network of Google Scholar](https://pypi.python.org/pypi/scholarNetwork)
 		- [R interface to the Arxiv API](https://github.com/ropensciaRxiv)
 		- [Phyk's blog](https://known.phyks.me)
-	- Steps
-		- Port R code to Python
-		- Replace _PubMed_ by _arXiv_
 - MediaWiki analysis
 	- [MediaWiki scripts](http://lahwaacz.github.io/wiki-scripts)
 	- [Wiki Growth Over Time](http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime)
