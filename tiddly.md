@@ -1,5 +1,6 @@
 - Inbox
 	- [Internet Relay Chat Help](http://www.irchelp.org)
+	- [torrents on the web](https://instant.io)
 - MediaWiki analysis
 	- [MediaWiki scripts](http://lahwaacz.github.io/wiki-scripts)
 	- [Wiki Growth Over Time](http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime)
@@ -60,14 +61,12 @@
 		- [Singapore Government's open data portal blog](https://blog.data.gov.sg)
 - Programming
 	- General
-		- [Vim](http://albertwu.org/cs61a/notes/vim) and [vimrc](http://albertwu.org/cs61a/notes/vimrc)
-		- [Project Euler](https://projecteuler.net/)
+	  - [Numerical methods](http://math.mit.edu/~stevenj)
 		- [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 		- [REPL](https://repl.it/)
 		- [visualize code execution](http://pythontutor.com)
 		- [git guide](https://wildlyinaccurate.com/a-hackers-guide-to-git) and [another one](http://albertwu.org/cs61a/notes/git.html)
 		- [Floating Point Demystified](http://blog.reverberate.org/2014/09/what-every-computer-programmer-should.html)
-		- [Ladder of abstraction](http://worrydream.com/LadderOfAbstraction)
 	- Fortran
 		- [Compile and Execute Fortran 95 Online](http://www.tutorialspoint.com/compile_fortran_online.php)
 		- [Fortran Wiki](http://fortranwiki.org/)
