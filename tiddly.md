@@ -79,7 +79,7 @@
 		- [C++ and MPI](https://www.amazon.com/dp/0521520800)
 		- [Linear C++ tutorial](https://github.com/jesyspa/linear-cpp)
 	- R
-		- data manipulation
+		- [data manipulation](#data-manipulation)
 		- [Evaluating the design of the R language](http://r.cs.purdue.edu/pub/ecoop12.pdf)
 		- [R for Data Science](http://r4ds.had.co.nz)
 		- [Advanced R](http://adv-r.had.co.nz)
