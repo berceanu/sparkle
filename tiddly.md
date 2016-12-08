@@ -66,7 +66,6 @@
 		- [Numerical methods](http://math.mit.edu/~stevenj)
 		- [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 		- [REPL](https://repl.it/)
-		- [The Structure and Interpretation of Computer Programs](http://cs61a.org)
 		- [visualize code execution](http://pythontutor.com)
 		- [git guide](https://wildlyinaccurate.com/a-hackers-guide-to-git)
 		- [Floating Point Demystified](http://blog.reverberate.org/2014/09/what-every-computer-programmer-should.html)
