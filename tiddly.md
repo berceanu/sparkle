@@ -74,7 +74,7 @@
 		- [Compile and Execute Fortran 95 Online](http://www.tutorialspoint.com/compile_fortran_online.php)
 		- [Fortran Wiki](http://fortranwiki.org/)
 		- [OpenMP in C and Fortran](https://www.amazon.com/dp/0262533022)
-	- C++
+	- C/C++
 		- [Accelerated C++](https://www.amazon.com/dp/020170353X)
 		- [C++ Primer](https://www.amazon.com/dp/0321714113)
 		- [C++ and MPI](https://www.amazon.com/dp/0521520800)
