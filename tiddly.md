@@ -43,7 +43,6 @@
 		- [17 data science projects](https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills)
 		- [Deep Learning](https://openai.com/requests-for-research)
 		- [Industry use cases](https://github.com/JosPolfliet/awesome-datascience-ideas)
-		- [7](#org7ca821e)
 		- extract useful info from Phoenix Rising [forums](http://forums.phoenixrising.me)
 	- Books
 		- [Probability Theory](https://www.amazon.com/dp/0521592712)
