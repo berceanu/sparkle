@@ -147,7 +147,6 @@
 
 
 ## LaTeX to Jekyll
-
 First, convert the LaTeX source file `cv.tex` to `cv.html` using
 ```
 htlatex cv.tex "xhtml, mathml, charset=utf-8" "-cunihtf -utf8"
@@ -160,7 +159,6 @@ kramdown cv.html > cv.md
 
 
 ### data manipulation
-
 1. `filter()`
 2. `arrange()`
 3. `select()`
