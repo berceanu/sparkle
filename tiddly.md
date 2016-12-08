@@ -127,6 +127,7 @@
 		- [Think Python](http://greenteapress.com/thinkpython2)
 		- [Automate the boring stuff](https://automatetheboringstuff.com)
 		- [Composing Programs](http://composingprograms.com)
+		- [Algorithms and Data Structures](https://interactivepython.org/runestone/static/pythonds/index.html)
 		- [Python for Data Analysis](file:///home/berceanu/Documents/Books/Python/pandas.pdf)
 - arXiv
 	- Resource
