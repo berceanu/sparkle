@@ -1,6 +1,7 @@
 - Inbox
 	- [Internet Relay Chat Help](http://www.irchelp.org)
 	- [torrents on the web](https://instant.io)
+	- [Library Genesis](http://gen.lib.rus.ec/scimag/index.php)
 - MediaWiki analysis
 	- [MediaWiki scripts](http://lahwaacz.github.io/wiki-scripts)
 	- [Wiki Growth Over Time](http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime)
