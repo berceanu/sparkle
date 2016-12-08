@@ -1,5 +1,3 @@
-<!-- TOC depthFrom:1 depthTo:3 withLinks:0 updateOnSave:1 orderedList:0 -->
-
 - Inbox
 	- [Internet Relay Chat Help](http://www.irchelp.org)
 - MediaWiki analysis
@@ -9,7 +7,7 @@
 	- Resources
 		- [HashOver](http:/tildehash.com/?page=hashover) comment system
 		- [Jekyll on GitHub](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
-	- LaTeX to Jekyll
+	- [LaTeX to Jekyll](#latex-to-jekyll)
 - Data Science
 	- Advice
 		- [Interviews](http://treycausey.com/data_science_interviews.html)
@@ -158,25 +156,7 @@
 		- Amsterdam
 		- Utrecht
 
-<!-- /TOC -->
 
-# Inbox
-
-## [Internet Relay Chat Help](http://www.irchelp.org)
-
-# MediaWiki analysis
-
-## [MediaWiki scripts](http://lahwaacz.github.io/wiki-scripts)
-
-## [Wiki Growth Over Time](http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime)
-
-# Blog
-
-## Resources
-
-### [HashOver](http:/tildehash.com/?page=hashover) comment system
-
-### [Jekyll on GitHub](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
 
 ## LaTeX to Jekyll
 
