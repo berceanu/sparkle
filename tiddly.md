@@ -95,7 +95,6 @@
 		- [Centrality measures](https://en.wikipedia.org/wiki/Centrality)
 		- [Community structure](https://en.wikipedia.org/wiki/Community_structure)
 		- [Force directed graph](https://en.wikipedia.org/wiki/Force-directed_graph_drawing)
-		- [Twitter communities](file:///home/berceanu/Documents/twitter.pdf)
 - Python
 	- Practice problems
 		- [Python Challenge](http://www.pythonchallenge.com/)
