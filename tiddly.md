@@ -62,7 +62,7 @@
 		- [Singapore Government's open data portal blog](https://blog.data.gov.sg)
 - Programming
 	- General
-	  - [Numerical methods](http://math.mit.edu/~stevenj)
+		- [Numerical methods](http://math.mit.edu/~stevenj)
 		- [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 		- [REPL](https://repl.it/)
 		- [visualize code execution](http://pythontutor.com)
