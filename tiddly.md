@@ -1,48 +1,48 @@
-<!-- TOC depthFrom:1 depthTo:2 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:1 depthTo:2 withLinks:0 updateOnSave:1 orderedList:0 -->
 
-- [Inbox](#inbox)
-	- [[Internet Relay Chat Help](http://www.irchelp.org)](#internet-relay-chat-helphttpwwwirchelporg)
-- [MediaWiki analysis](#mediawiki-analysis)
-	- [[MediaWiki scripts](http://lahwaacz.github.io/wiki-scripts)](#mediawiki-scriptshttplahwaaczgithubiowiki-scripts)
-	- [[Wiki Growth Over Time](http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime)](#wiki-growth-over-timehttpwikitudelftnlbinviewmainwikigrowthovertime)
-- [Blog](#blog)
-	- [Resources](#resources)
-	- [LaTeX to Jekyll](#latex-to-jekyll)
-- [Data Science](#data-science)
-	- [Advice](#advice)
-	- [Job search](#job-search)
-	- [ML](#ml)
-	- [Projects](#projects)
-	- [Books](#books)
-	- [Courses](#courses)
-	- [Open Data](#open-data)
-	- [Examples](#examples)
-- [Programming](#programming)
-	- [General](#general)
-	- [Fortran](#fortran)
-	- [C++](#c)
-	- [R](#r)
-	- [SQL](#sql)
-	- [Gephi](#gephi)
-- [Python](#python)
-	- [Practice problems](#practice-problems)
-	- [Base](#base)
-	- [SciPy](#scipy)
-	- [PyData](#pydata)
-	- [Books](#books)
-- [arXiv](#arxiv)
-	- [Resource](#resource)
-	- [Steps](#steps)
-- [Spacemacs Fortran Layer](#spacemacs-fortran-layer)
-	- [Available emacs packages:](#available-emacs-packages)
-- [Netherlands](#netherlands)
-	- [[ASML](http://asml.com)](#asmlhttpasmlcom)
-	- [[Philips](http://www.philips.com/global)](#philipshttpwwwphilipscomglobal)
-	- [[FEI Company](http://www.fei.com)](#fei-companyhttpwwwfeicom)
-	- [[TNO](https://www.tno.nl/en)](#tnohttpswwwtnonlen)
-	- [[PANalytical](http://www.panalytical.com)](#panalyticalhttpwwwpanalyticalcom)
-	- [[MAPPER lithography](http://www.mapperlithography.com)](#mapper-lithographyhttpwwwmapperlithographycom)
-	- [high-tech campuses](#high-tech-campuses)
+- Inbox
+	- [Internet Relay Chat Help](http://www.irchelp.org)
+- MediaWiki analysis
+	- [MediaWiki scripts](http://lahwaacz.github.io/wiki-scripts)
+	- [Wiki Growth Over Time](http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime)
+- Blog
+	- Resources
+	- LaTeX to Jekyll
+- Data Science
+	- Advice
+	- Job search
+	- ML
+	- Projects
+	- Books
+	- Courses
+	- Open Data
+	- Examples
+- Programming
+	- General
+	- Fortran
+	- C++
+	- R
+	- SQL
+	- Gephi
+- Python
+	- Practice problems
+	- Base
+	- SciPy
+	- PyData
+	- Books
+- arXiv
+	- Resource
+	- Steps
+- Spacemacs Fortran Layer
+	- Available emacs packages:
+- Netherlands
+	- [ASML](http://asml.com)
+	- [Philips](http://www.philips.com/global)
+	- [FEI Company](http://www.fei.com)
+	- [TNO](https://www.tno.nl/en)
+	- [PANalytical](http://www.panalytical.com)
+	- [MAPPER lithography](http://www.mapperlithography.com)
+	- high-tech campuses
 
 <!-- /TOC -->
 
