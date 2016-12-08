@@ -13,6 +13,7 @@
 	- Advice
 		- [Interviews](http://treycausey.com/data_science_interviews.html)
 		- [30+ data science interviews](https://youtu.be/O6nFJzW-SDg?t=318)
+		- [Alex Morega](https://grep.ro)
 		- 21 data science interview Q&A's [part 1](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html) and [part 2](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers-part2.html)
 		- [reddit sub](https://www.reddit.com/r/datascience/top/?sort=top&t=all)
 		- [Rakuten's Takuya Kitagawa](https://www.youtube.com/watch?v=2kwtRuWDPKU)
