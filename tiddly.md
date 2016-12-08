@@ -67,7 +67,7 @@
 		- [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 		- [REPL](https://repl.it/)
 		- [visualize code execution](http://pythontutor.com)
-		- [git guide](https://wildlyinaccurate.com/a-hackers-guide-to-git) and [another one](http://albertwu.org/cs61a/notes/git.html)
+		- [git guide](https://wildlyinaccurate.com/a-hackers-guide-to-git)
 		- [Floating Point Demystified](http://blog.reverberate.org/2014/09/what-every-computer-programmer-should.html)
 	- Fortran
 		- [Compile and Execute Fortran 95 Online](http://www.tutorialspoint.com/compile_fortran_online.php)
