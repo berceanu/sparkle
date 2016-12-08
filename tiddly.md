@@ -157,7 +157,6 @@
 		- Utrecht
 
 
-
 ## LaTeX to Jekyll
 
 First, convert the LaTeX source file `cv.tex` to `cv.html` using
@@ -177,13 +176,8 @@ kramdown cv.html > cv.md
 ### data manipulation
 
 1. `filter()`
-
 2. `arrange()`
-
 3. `select()`
-
 4. `mutate()`
-
 5. `summarize()`
-
 6. `group_by()`
