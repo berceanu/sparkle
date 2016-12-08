@@ -67,6 +67,7 @@
 		- [REPL](https://repl.it/)
 		- [visualize code execution](http://pythontutor.com)
 		- [git guide](https://wildlyinaccurate.com/a-hackers-guide-to-git)
+		- [CLRS (Intro to Algorithms)](https://wikipedia.org/wiki/Introduction_to_Algorithms)
 		- [Floating Point Demystified](http://blog.reverberate.org/2014/09/what-every-computer-programmer-should.html)
 	- Fortran
 		- [Compile and Execute Fortran 95 Online](http://www.tutorialspoint.com/compile_fortran_online.php)
