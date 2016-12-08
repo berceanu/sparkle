@@ -75,6 +75,7 @@
 		- [Fortran Wiki](http://fortranwiki.org/)
 		- [OpenMP in C and Fortran](https://www.amazon.com/dp/0262533022)
 	- C/C++
+		- [C wiki](http://www.iso-9899.info/wiki/Main_Page)
 		- [Accelerated C++](https://www.amazon.com/dp/020170353X)
 		- [C++ Primer](https://www.amazon.com/dp/0321714113)
 		- [C++ and MPI](https://www.amazon.com/dp/0521520800)
