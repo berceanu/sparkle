@@ -106,6 +106,7 @@
 		- `python3 -m pip install --user git+git://github.com/vtphan/rcviz.git`
 		- [Profiling code](http://wingware.com/pipermail/wingide-users/2013-September/010392.html)
 		- [How does Python find packages?](https://leemendelowitz.github.io/blog/how-does-python-find-packages.html)
+		- [Special Method Names](http://getpython3.com/diveintopython3/special-method-names.html)
 		- [function decorators](http://programmingbits.pythonblogs.com/27_programmingbits/archive/50_function_decorators.html)
 	- SciPy
 		- [Emacs + org-mode + python in reproducible research](https://www.youtube.com/watch?v=1-dUkyn_fZA)
