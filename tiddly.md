@@ -149,13 +149,10 @@
 ## LaTeX to Jekyll
 
 First, convert the LaTeX source file `cv.tex` to `cv.html` using
-
 ```
 htlatex cv.tex "xhtml, mathml, charset=utf-8" "-cunihtf -utf8"
 ```
-
 and then convert `cv.html` to the markdown file `cv.md`:
-
 ```
 kramdown -i html -o remove_html_tags
 kramdown cv.html > cv.md
