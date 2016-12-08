@@ -104,6 +104,7 @@
 		- [Coding Bat](http://codingbat.com/python)
 	- Base
 		- [The Python Tutorial](https://docs.python.org/3/tutorial)
+		- [Python pastebin](https://paste.pound-python.org)
 		- `python3 -m pip install --user git+git://github.com/vtphan/rcviz.git`
 		- [Profiling code](http://wingware.com/pipermail/wingide-users/2013-September/010392.html)
 		- [How does Python find packages?](https://leemendelowitz.github.io/blog/how-does-python-find-packages.html)
