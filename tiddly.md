@@ -120,12 +120,11 @@
 		- [Algorithms and Data Structures](https://interactivepython.org/runestone/static/pythonds/index.html)
 		- Python for Data Analysis (Documents/Books/Python/pandas.pdf)
 - arXiv
-	- Resource
-		- [Pubmed co-author graph in R](https://github.com/mjmaenner/coAuthor/blob/master/postdoc_coauthor_graph.R)
-		- [Python wrapper for the arXiv API](https://github.com/lukasschwab/arxiv.py)
-		- [Coauthor-Network of Google Scholar](https://pypi.python.org/pypi/scholarNetwork)
-		- [R interface to the Arxiv API](https://github.com/ropensciaRxiv)
-		- [Phyk's blog](https://known.phyks.me)
+	- [Pubmed co-author graph in R](https://github.com/mjmaenner/coAuthor/blob/master/postdoc_coauthor_graph.R)
+	- [Python wrapper for the arXiv API](https://github.com/lukasschwab/arxiv.py)
+	- [Coauthor-Network of Google Scholar](https://pypi.python.org/pypi/scholarNetwork)
+	- [R interface to the Arxiv API](https://github.com/ropensciaRxiv)
+	- [Phyk's blog](https://known.phyks.me)
 - MediaWiki analysis
 	- [MediaWiki scripts](http://lahwaacz.github.io/wiki-scripts)
 	- [Wiki Growth Over Time](http://wiki.tudelft.nl/bin/view/Main/WikiGrowthOverTime)
@@ -136,11 +135,7 @@
 	- [TNO](https://www.tno.nl/en)
 	- [PANalytical](http://www.panalytical.com)
 	- [MAPPER lithography](http://www.mapperlithography.com)
-	- high-tech campuses
-		- Eindhoven
-		- Delft
-		- Amsterdam
-		- Utrecht
+	- high-tech campuses: Eindhoven, Delft, Amsterdam, Utrecht
 
 
 ## LaTeX to Jekyll
