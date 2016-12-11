@@ -74,6 +74,7 @@
 		- [C++ Primer](https://www.amazon.com/dp/0321714113)
 		- [C++ and MPI](https://www.amazon.com/dp/0521520800)
 		- [Linear C++ tutorial](https://github.com/jesyspa/linear-cpp)
+		- [MIT Effective Programming in C and C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/lecture-notes)
 	- R
 		- [data manipulation](#data-manipulation)
 		- [Evaluating the design of the R language](http://r.cs.purdue.edu/pub/ecoop12.pdf)
