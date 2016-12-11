@@ -105,7 +105,7 @@
 		- [How does Python find packages?](https://leemendelowitz.github.io/blog/how-does-python-find-packages.html)
 		- [Special Method Names](http://getpython3.com/diveintopython3/special-method-names.html)
 		- [function decorators](http://programmingbits.pythonblogs.com/27_programmingbits/archive/50_function_decorators.html)
-		- [Calling C functions](http://cffi.readthedocs.io/en/latest)
+		- [Calling C functions (CFFI)](http://cffi.readthedocs.io/en/latest)
 	- SciPy
 		- [Emacs + org-mode + python in reproducible research](https://www.youtube.com/watch?v=1-dUkyn_fZA)
 		- [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100%20Numpy%20exercises.md)
