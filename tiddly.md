@@ -55,6 +55,7 @@
 - Programming
 	- General
 		- [Numerical methods](http://math.mit.edu/~stevenj)
+		- [Landau Institute Numerical Computing course](http://chair.itp.ac.ru/index.php?sub=curriculum/comp2&year=2011&sem=5)
 		- [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 		- [REPL](https://repl.it/)
 		- [visualize code execution](http://pythontutor.com)
