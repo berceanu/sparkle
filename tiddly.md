@@ -61,6 +61,7 @@
 		- [REPL](https://repl.it/)
 		- [visualize code execution](http://pythontutor.com)
 		- [git guide](https://wildlyinaccurate.com/a-hackers-guide-to-git)
+		- MIT courses on algorithms: 6.006 and 6.046
 		- [CLRS (Intro to Algorithms)](https://wikipedia.org/wiki/Introduction_to_Algorithms)
 		- [Language Benchmarks](http://benchmarksgame.alioth.debian.org/u64q/which-programs-are-fastest.html)
 		- [Floating Point Demystified](http://blog.reverberate.org/2014/09/what-every-computer-programmer-should.html)
