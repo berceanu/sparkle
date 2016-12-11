@@ -27,6 +27,7 @@
 		- [ML flow chart](http://www.coppelia.io/wp-content/uploads/2015/09/BlueprintTechniques.png)
 		- [scikit-learn flow chart](http://scikit-learn.org/stable/tutorial/machine_learning_map)
 		- [Make Your Own Neural Network](https://www.amazon.com/gp/product/B01EER4Z4G)
+		- [HackerRank ML Practice Problems](https://www.hackerrank.com/domains/ai/machine-learning)
 	- Projects
 		- Port [nycflights13](http://r4ds.had.co.nz/transform.html) R code to Python/pandas
 		- Explore the [Enron email dataset](http://www.cs.cmu.edu/enron) described [here](http://foreverdata.org/1009/Enron_Dataset_Report.pdf) and studied [here](https://scholar.google.com/scholar?q=enron+email+dataset)
