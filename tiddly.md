@@ -66,9 +66,9 @@
 		- [Language Benchmarks](http://benchmarksgame.alioth.debian.org/u64q/which-programs-are-fastest.html)
 		- [Floating Point Demystified](http://blog.reverberate.org/2014/09/what-every-computer-programmer-should.html)
 		- [Online resources](https://en.wikipedia.org/wiki/Competitive_programming#Online_contest_and_training_resources)
-		- []()
-		- []()
-		- []()
+		- [EXERCISM](http://exercism.io)
+		- [Advent of Code](http://adventofcode.com)
+		- [Codewars](https://www.codewars.com)
 	- Fortran
 		- [Compile and Execute Fortran 95 Online](http://www.tutorialspoint.com/compile_fortran_online.php)
 		- [Fortran Wiki](http://fortranwiki.org/)
