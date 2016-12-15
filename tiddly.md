@@ -77,8 +77,7 @@
 		- [Linear C++ tutorial](https://github.com/jesyspa/linear-cpp)
 		- MIT intro to C++ 6.096
 	- Rust
-		- [The Book](https://doc.rust-lang.org/book) and [the new book](https://doc.rust-lang.org/book/getting-started.html)
-		- [Example book](https://rust-lang.github.io/book)
+		- [The Book](https://doc.rust-lang.org/book) and [the new book](https://rust-lang.github.io/book)
 		- [Collection of examples](http://rustbyexample.com)
 		- [Small exercises](https://github.com/carols10cents/rustlings)
 	- R
