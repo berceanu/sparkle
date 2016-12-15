@@ -101,6 +101,7 @@
 		- [Python Challenge](http://www.pythonchallenge.com/)
 		- [Practice Python](http://www.practicepython.org/)
 		- [Coding Bat](http://codingbat.com/python)
+		- [Online resources](https://en.wikipedia.org/wiki/Competitive_programming#Online_contest_and_training_resources)
 	- Base
 		- [The Python Tutorial](https://docs.python.org/3/tutorial)
 		- [Python pastebin](https://paste.pound-python.org)
