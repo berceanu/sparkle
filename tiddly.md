@@ -65,6 +65,10 @@
 		- [CLRS (Intro to Algorithms)](https://wikipedia.org/wiki/Introduction_to_Algorithms)
 		- [Language Benchmarks](http://benchmarksgame.alioth.debian.org/u64q/which-programs-are-fastest.html)
 		- [Floating Point Demystified](http://blog.reverberate.org/2014/09/what-every-computer-programmer-should.html)
+		- [Online resources](https://en.wikipedia.org/wiki/Competitive_programming#Online_contest_and_training_resources)
+		- []()
+		- []()
+		- []()
 	- Fortran
 		- [Compile and Execute Fortran 95 Online](http://www.tutorialspoint.com/compile_fortran_online.php)
 		- [Fortran Wiki](http://fortranwiki.org/)
@@ -101,7 +105,6 @@
 		- [Python Challenge](http://www.pythonchallenge.com/)
 		- [Practice Python](http://www.practicepython.org/)
 		- [Coding Bat](http://codingbat.com/python)
-		- [Online resources](https://en.wikipedia.org/wiki/Competitive_programming#Online_contest_and_training_resources)
 	- Base
 		- [The Python Tutorial](https://docs.python.org/3/tutorial)
 		- [Python pastebin](https://paste.pound-python.org)
