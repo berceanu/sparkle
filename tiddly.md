@@ -84,6 +84,8 @@
 		- [The Book](https://doc.rust-lang.org/book) and [the new book](https://rust-lang.github.io/book)
 		- [Collection of examples](http://rustbyexample.com)
 		- [Small exercises](https://github.com/carols10cents/rustlings)
+	- JavaScript
+		- [Mozilla Resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 	- R
 		- [data manipulation](#data-manipulation)
 		- [Evaluating the design of the R language](http://r.cs.purdue.edu/pub/ecoop12.pdf)
