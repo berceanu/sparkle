@@ -132,7 +132,7 @@
 		- [Automate the boring stuff](https://automatetheboringstuff.com)
 		- [Composing Programs](http://composingprograms.com)
 		- [Algorithms and Data Structures](https://interactivepython.org/runestone/static/pythonds/index.html)
-		- Python for Data Analysis (Documents/Books/Python/pandas.pdf)
+		- Python for Data Analysis (`Documents/Books/Python/pandas.pdf`)
 - arXiv
 	- [Pubmed co-author graph in R](https://github.com/mjmaenner/coAuthor/blob/master/postdoc_coauthor_graph.R)
 	- [Python wrapper for the arXiv API](https://github.com/lukasschwab/arxiv.py)
