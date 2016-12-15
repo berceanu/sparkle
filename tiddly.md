@@ -31,7 +31,7 @@
 	- Projects
 		- Port [nycflights13](http://r4ds.had.co.nz/transform.html) R code to Python/pandas
 		- Explore the [Enron email dataset](http://www.cs.cmu.edu/enron) described [here](http://foreverdata.org/1009/Enron_Dataset_Report.pdf) and studied [here](https://scholar.google.com/scholar?q=enron+email+dataset)
-		- Analyze my own emails (Documents/mail.tar.gz) using [Mathematica](http://blog.wolfram.com/2012/04/05/analyzing-your-email-with-mathematica)
+		- Analyze my own emails (`Documents/mail.tar.gz`) using [Mathematica](http://blog.wolfram.com/2012/04/05/analyzing-your-email-with-mathematica)
 		- model house prices on [imobiliare.ro](http://www.imobiliare.ro)
 		- [100 hours](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours)
 		- [Toy Problems](https://www.quora.com/What-are-some-good-toy-problems-in-data-science)
