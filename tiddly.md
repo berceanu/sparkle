@@ -80,6 +80,7 @@
 		- [The Book](https://doc.rust-lang.org/book) and [the new book](https://doc.rust-lang.org/book/getting-started.html)
 		- [Example book](https://rust-lang.github.io/book)
 		- [Collection of examples](http://rustbyexample.com)
+		- [Small exercises](https://github.com/carols10cents/rustlings)
 	- R
 		- [data manipulation](#data-manipulation)
 		- [Evaluating the design of the R language](http://r.cs.purdue.edu/pub/ecoop12.pdf)
