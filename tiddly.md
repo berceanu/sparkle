@@ -42,6 +42,7 @@
 	- Books
 		- [Probability Theory](https://www.amazon.com/dp/0521592712)
 		- [Pattern Recognition](https://www.amazon.com/dp/0387310738)
+        - [Statistics is Easy!](https://www.amazon.com/Statistics-Second-Synthesis-Lectures-Mathematics/dp/160845570X)
 		- [Statistical Learning Introduction](https://www.amazon.com/dp/1461471370)
         - [ISLR Python code](https://github.com/JWarmenhoven/ISLR-python)
 		- [Statistical Learning Elements](https://www.amazon.com/dp/0387848576)
