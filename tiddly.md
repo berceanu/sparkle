@@ -89,7 +89,7 @@
 		- [C++ Primer](https://www.amazon.com/dp/0321714113)
 		- [C++ and MPI](https://www.amazon.com/dp/0521520800)
 		- [Linear C++ tutorial](https://github.com/jesyspa/linear-cpp)
-        - [Online manual]()
+        - [Online manual](http://www.cplusplus.com)
         - [Online reference]()
 		- MIT intro to C++ 6.096
 	- Rust
