@@ -83,6 +83,7 @@
 	- C/C++
 		- [C wiki](http://www.iso-9899.info/wiki/Main_Page)
         - [C intro](http://cprog.tomsweb.net/cintro.html)
+        - [C coding style](http://userpages.umbc.edu/~rostamia/cbook/CodingStyle.html)
 		- [Accelerated C++](https://www.amazon.com/dp/020170353X)
         - [C++ best practices](http://awesomecpp.com)
         - [C++ cheat sheet](https://github.com/mortennobel/cpp-cheatsheet)
