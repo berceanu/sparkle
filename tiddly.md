@@ -91,6 +91,8 @@
 		- [Linear C++ tutorial](https://github.com/jesyspa/linear-cpp)
         - [Online manual](http://www.cplusplus.com)
         - [Online reference](http://en.cppreference.com)
+        - [Boost MultiArray](https://theboostcpplibraries.com/boost.multiarray)
+        - [Eigen](http://eigen.tuxfamily.org)
 		- MIT intro to C++ 6.096
 	- Rust
 		- [The Book](https://doc.rust-lang.org/book) and [the new book](https://rust-lang.github.io/book)
