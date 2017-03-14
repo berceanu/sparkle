@@ -89,6 +89,7 @@
         - [C++ cheat sheet](https://github.com/mortennobel/cpp-cheatsheet)
 		- [C++ Primer](https://www.amazon.com/dp/0321714113)
 		- [C++ and MPI](https://www.amazon.com/dp/0521520800)
+        - [](https.//www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it.html)
 		- [Linear C++ tutorial](https://github.com/jesyspa/linear-cpp)
         - [Online manual](http://www.cplusplus.com)
         - [Online reference](http://en.cppreference.com)
